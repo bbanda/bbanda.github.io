@@ -36,6 +36,10 @@ bbanda.github.io/
 └── LICENSE             # License information
 ```
 
+Rust Q&A
+[q&a 01](rust_01.md)
+
+
 ## 🧰 Technologies
 
 This website may use:
